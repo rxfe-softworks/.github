@@ -1,5 +1,14 @@
 ## Main Development page for all software by RXFE
 
+- <a href="https://rxfe.xyz/autoclicker"> Super OP Autoclicker (MultiClicker Release Coming Soon)</a>
+
+- <a href="https://rxfe.xyz/ytmp">Youtube Oriented video/audio file downloader</a>
+
+- <a href="https://rxfe.xyz/localway">localway</a>
+
+# QuickProjects
+- <a href="https://rxfe.xyz/securecopyprotocol-overui">SCP-UI</a>
+- <a href="https://rxfe.xyz/vision-ss">Vision SS</a>
 <!--
 
 **Here are some ideas to get you started:**
